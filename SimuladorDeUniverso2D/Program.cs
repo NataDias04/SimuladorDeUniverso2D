@@ -1,5 +1,10 @@
 namespace SimuladorDeUniverso2D;
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
 static class Program
 {
     /// <summary>
