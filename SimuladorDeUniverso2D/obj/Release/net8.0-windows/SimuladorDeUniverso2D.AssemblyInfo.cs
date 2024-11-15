@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorDeUniverso2D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2e8c8eb2482d5ecd78d967c8c784feb35f4da14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c857af758dc651db45444d987196a68e036485fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorDeUniverso2D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorDeUniverso2D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
