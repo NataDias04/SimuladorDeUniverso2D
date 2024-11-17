@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.sourcelink.json
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.Form1.resources
+C:\Users\Matheus\Desktop\SimuladorDeUniverso2D\SimuladorDeUniverso2D\obj\Debug\net8.0-windows\SimuladorDeUniverso2D.csproj.GenerateResource.cache
